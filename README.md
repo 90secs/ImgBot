@@ -1,0 +1,2 @@
+# ImgBot
+Compress my images
